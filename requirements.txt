@@ -1,3 +1,12 @@
+# Core
 streamlit>=1.30.0
+
+# Autenticação Microsoft
 msal>=1.24.0
 requests>=2.28.0
+
+# Manipulação de dados (para SPConnector)
+pandas>=2.0.0
+
+# Excel (opcional, para sp_connector.read_excel)
+openpyxl>=3.1.0
